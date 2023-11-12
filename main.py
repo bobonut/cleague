@@ -1,5 +1,7 @@
+import preprocess
+
 def main():
-    print('hello world')
+    preprocess.test()
 
 if __name__ == "__main__":
     main()
