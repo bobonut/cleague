@@ -1,0 +1,16 @@
+﻿,Attack,Defense,Type
+CF,1,0,Attack
+ST,1,0,Attack
+RW,1,0,Attack
+LW,1,0,Attack
+GK,0,1,Defense
+CB,0,1,Defense
+CDM,0.1,0.9,Defense
+LB,0,1,Defense
+RB,0,1,Defense
+LWB,0.1,0.9,Defense
+RWB,0.1,0.9,Defense
+CAM,0.9,0.1,Mid
+CM,0.6,0.4,Mid
+LM,0.6,0.4,Mid
+RM,0.6,0.4,Mid
